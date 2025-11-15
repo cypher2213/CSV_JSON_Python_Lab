@@ -1,0 +1,82 @@
+[
+    {
+        "surname": "Іванов",
+        "name": "Олег",
+        "address": "вул. Шевченка 10",
+        "school": 8,
+        "day": "субота",
+        "grade": 7
+    },
+    {
+        "surname": "Петренко",
+        "name": "Марія",
+        "address": "вул. Лесі 5",
+        "school": 12,
+        "day": "неділя",
+        "grade": 8
+    },
+    {
+        "surname": "Коваль",
+        "name": "Ірина",
+        "address": "вул. Франка 2",
+        "school": 5,
+        "day": "субота",
+        "grade": 7
+    },
+    {
+        "surname": "Мельник",
+        "name": "Андрій",
+        "address": "вул. Миру 44",
+        "school": 9,
+        "day": "субота",
+        "grade": 9
+    },
+    {
+        "surname": "Мороз",
+        "name": "Сергій",
+        "address": "вул. Садова 12",
+        "school": 6,
+        "day": "неділя",
+        "grade": 8
+    },
+    {
+        "surname": "Муха",
+        "name": "Анна",
+        "address": "вул. Київська 99",
+        "school": 8,
+        "day": "субота",
+        "grade": 7
+    },
+    {
+        "surname": "Мазур",
+        "name": "Юрій",
+        "address": "вул. Гоголя 1",
+        "school": 3,
+        "day": "неділя",
+        "grade": 7
+    },
+    {
+        "surname": "Сокіл",
+        "name": "Олег",
+        "address": "вул. Пушкіна 7",
+        "school": 4,
+        "day": "субота",
+        "grade": 8
+    },
+    {
+        "surname": "Федоренко",
+        "name": "Олена",
+        "address": "вул. Квіткова 3",
+        "school": 2,
+        "day": "субота",
+        "grade": 8
+    },
+    {
+        "surname": "Майерс",
+        "name": "Майкл",
+        "address": "Уолл стріт",
+        "school": 22,
+        "day": "субота",
+        "grade": 9
+    }
+]
